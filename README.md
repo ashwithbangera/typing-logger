@@ -87,5 +87,5 @@ h e l l o   w o r l d [ENTER]
 ```
 
 ---
-✔ Project banner image
+
 
